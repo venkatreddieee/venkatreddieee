@@ -1,14 +1,12 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Venkata Reddy</h1>
 
 <h3 align="center">
-Aspiring Data Analyst • Data Science Learner • SQL & Python Enthusiast
+Data Analyst | SQL • Python • Power BI • Excel | Turning data into actionable insights 📊
 </h3>
 
 <p align="center">
   <a href="https://github.com/venkatreddieee">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Data+Science+Student;SQL+%7C+Python+%7C+Power+BI;Building+Real+World+Projects;Learning+AI+and+Machine+Learning" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+Into+Actionable+Insights;Building+Real+World+Analytics+Projects;Learning+Data+Science+and+AI" />
   </a>
 </p>
 
@@ -16,28 +14,31 @@ Aspiring Data Analyst • Data Science Learner • SQL & Python Enthusiast
 
 ## 🙋‍♂️ About Me
 
-- 📊 Passionate about **Data Analytics & Data Science**
-- 🐍 Learning **Python for Data Analysis**
-- 🛢️ Practicing **SQL Advanced Queries**
-- 📈 Interested in **Business Insights & Stock Market Analytics**
-- 📚 Currently learning **Power BI, Machine Learning & AI**
-- 🚀 Building projects consistently to become job-ready
+- 📊 Passionate about Data Analytics & Visualization
+- 🐍 Learning Python for Data Analysis
+- 🛢️ Practicing Advanced SQL Queries
+- 📈 Interested in Business Insights & Stock Market Analytics
+- 📚 Exploring Data Science & AI
+- 🚀 Building real-world projects consistently
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,java,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 
 </p>
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Analytics-00C7B7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -65,29 +66,29 @@ Aspiring Data Analyst • Data Science Learner • SQL & Python Enthusiast
 ### 📊 Data Analytics Projects
 - SQL Data Analysis Projects
 - Power BI Dashboard Projects
-- Excel Business Analysis
+- Excel Business Reports
 
-### 🤖 Python & AI Projects
-- Machine Learning Beginner Projects
+### 🐍 Python Projects
+- Data Cleaning Projects
 - Data Visualization Projects
-- Stock Market Analytics
+- Analytics Automation Scripts
 
-### ☕ Java Projects
-- JDBC Projects
-- Library Management System
-- Backend Development Practice
+### 🤖 Data Science Projects
+- Machine Learning Beginner Projects
+- Predictive Analytics
+- Stock Market Analytics
 
 ---
 
 ## 🌱 Currently Learning
 
 ```python
-Skills = [
+skills = [
     "SQL",
     "Python",
     "Power BI",
     "Excel",
-    "Machine Learning",
     "Data Visualization",
-    "Data Cleaning",
+    "Machine Learning",
+    "Data Cleaning"
 ]
