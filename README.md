@@ -14,12 +14,11 @@ Data Analyst | SQL • Python • Power BI • Excel | Turning data into actiona
 
 ## 🙋‍♂️ About Me
 
-- 📊 Passionate about Data Analytics & Visualization
-- 🐍 Learning Python for Data Analysis
-- 🛢️ Practicing Advanced SQL Queries
-- 📈 Interested in Business Insights & Stock Market Analytics
-- 📚 Exploring Data Science & AI
-- 🚀 Building real-world projects consistently
+- 📊 Passionate about turning data into actionable insights
+- 🐍 Building analytical skills using SQL, Python, Power BI, and Excel
+- 📈 Interested in business intelligence, dashboards, and data visualization
+- 🚀 Working on real-world analytics projects to improve problem-solving skills
+- 📚 Continuously learning and growing as a future Data Analyst
 
 ---
 
@@ -63,18 +62,7 @@ Data Analyst | SQL • Python • Power BI • Excel | Turning data into actiona
 
 ---
 
-## 🌱 Currently Learning
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge"/>
-
-</p>
 
 ## 🌐 Connect With Me
 
