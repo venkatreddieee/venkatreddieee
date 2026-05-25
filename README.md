@@ -41,25 +41,7 @@ Data Analyst | SQL • Python • Power BI • Excel | Turning data into actiona
 
 </p>
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=venkatreddieee&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170em" src="https://streak-stats.demolab.com?user=venkatreddieee&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatreddieee&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📌 Featured Projects
 
