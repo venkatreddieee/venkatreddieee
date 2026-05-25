@@ -27,7 +27,7 @@ Data Analyst | SQL • Python • Power BI • Excel | Turning data into actiona
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,excel,powerbi,git,github,vscode" />
 
 </p>
 
