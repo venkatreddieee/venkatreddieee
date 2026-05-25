@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkata Reddy</h1>
+<h1 align="center">Hi, I'm Venkata Reddy</h1>
 
 <h3 align="center">
 Data Analyst | SQL • Python • Power BI • Excel | Turning data into actionable insights 📊
@@ -12,7 +12,7 @@ Data Analyst | SQL • Python • Power BI • Excel | Turning data into actiona
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 - 📊 Passionate about turning data into actionable insights
 - 🐍 Building analytical skills using SQL, Python, Power BI, and Excel
@@ -43,19 +43,19 @@ Data Analyst | SQL • Python • Power BI • Excel | Turning data into actiona
 
 
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 📊 Data Analytics Projects
+### Data Analytics Projects
 - SQL Data Analysis Projects
 - Power BI Dashboard Projects
 - Excel Business Reports
 
-### 🐍 Python Projects
+### Python Projects
 - Data Cleaning Projects
 - Data Visualization Projects
 - Analytics Automation Scripts
 
-### 🤖 Data Science Projects
+### Data Science Projects
 - Machine Learning Beginner Projects
 - Predictive Analytics
 - Stock Market Analytics
